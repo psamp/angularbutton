@@ -1,0 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+.container {
+  width: 500px;
+  margin: 50px auto;
+  text-align: center; }
+
+button {
+  margin: 0px auto;
+  text-transform: lowercase;
+  height: 300px;
+  width: 300px; }
