@@ -1,0 +1,6 @@
+{
+  "name": "psamp-likeit",
+  "root": "app",
+  "clean_urls": true,
+  "error_page": "n"
+}
